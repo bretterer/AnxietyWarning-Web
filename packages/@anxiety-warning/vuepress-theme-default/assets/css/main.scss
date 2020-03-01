@@ -3,3 +3,30 @@
 @tailwind components;
 
 @tailwind utilities;
+
+
+.header-anchor {
+  display: none;
+}
+
+body, #app {
+  @apply h-screen;
+}
+
+.content__default {
+  h1 {
+    @apply my-4 text-3xl;
+  }
+
+  p {
+    @apply mb-4;
+  }
+
+  ul {
+    @apply mb-4 list-disc ml-6;
+  }
+
+  a {
+    @apply text-red-400;
+  }
+}

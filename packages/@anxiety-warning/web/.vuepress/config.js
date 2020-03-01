@@ -5,5 +5,8 @@ module.exports = {
       require('tailwindcss'),
       require('autoprefixer'),
     ] 
-  }
+  },
+  head: [
+    ['link', { rel: 'stylesheet', href: 'https://rsms.me/inter/inter.css' }]
+  ]
 }

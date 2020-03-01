@@ -1,10 +1,6 @@
 <template>
-  <div>
+  <div class="container mx-auto h-full flex justify-center items-center">
     <HeroCentered />
-
-    <div class="mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 xl:mt-28">
-      <Content />
-    </div>
   </div>
 </template>
 
