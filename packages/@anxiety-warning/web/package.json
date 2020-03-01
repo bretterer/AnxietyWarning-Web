@@ -7,6 +7,7 @@
     "dev": "vuepress dev ."
   },
   "dependencies": {
-    "@anxiety-warning/vuepress-theme-default": "^1.0.0"
+    "@anxiety-warning/vuepress-theme-default": "^1.0.0",
+    "@vuepress/plugin-google-analytics": "^1.3.1"
   }
 }
