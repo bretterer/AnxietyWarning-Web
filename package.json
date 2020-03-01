@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:bretterer/AnxietyWarning-Web.git",
   "author": "Brian Retterer <bretterer@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "docs:build": "vuepress build docs"
+  }
 }
