@@ -1,0 +1,12 @@
+{
+  "name": "@anxiety-warning/web",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "vuepress build .",
+    "dev": "vuepress dev ."
+  },
+  "dependencies": {
+    "@anxiety-warning/vuepress-theme-default": "^1.0.0"
+  }
+}

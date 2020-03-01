@@ -1,0 +1,11 @@
+{
+  "name": "@anxiety-warning/vuepress-theme-default",
+  "version": "1.0.0",
+  "description": "VuePress theme for official Anxiety Warning Site",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/ui": "^0.1.3",
+    "tailwindcss": "^1.2.0"
+  }
+}
